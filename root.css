@@ -7,3 +7,8 @@
   /* don't display list of suggestions */
   display: none !important;
 }
+
+div[id="search"] > div > div > div > div > div[class="xpdopen"] {
+  /* Removes "People also ask" and "featured snippets" elements */
+  display: none !important;
+}

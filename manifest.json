@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "No Search For",
   "version": "1",
-  "description": "Remove the 'People also search for' element on google search",
+  "description": "Remove the 'People also search for' , 'People also ask' and 'featured snippets' elements on google search",
   "content_scripts": [
     {
       "matches": [
